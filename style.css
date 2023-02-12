@@ -115,6 +115,7 @@ main {
 .pagination {
     text-align: center;
     padding-top: 50px;
+}
 
 .pagination p {
     display: inline-block;
@@ -155,7 +156,7 @@ main {
     border: none;
 }
 
-.instagram.sidebar-contents {
+.sidebar-contents {
     display: flex;
     flex-wrap: wrap;
 }
